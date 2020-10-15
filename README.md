@@ -49,9 +49,11 @@
 
 
 ---
+<details>
+[![Steven's Github Stats](https://github-readme-stats.vercel.app/api?username=stevenks17&show_icons=true&hide_border=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenks17)](https://github.com/anuraghazra/github-readme-stats)
 
-[Steven's Github Stats](https://github-readme-stats.vercel.app/api?username=stevenks17&show_icons=true&hide_border=true)
-
+</details>
 
 [site]: https://stevekdev.netlify.app/
 [twitter]: https://twitter.com/nevets172
