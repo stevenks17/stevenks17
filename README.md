@@ -1,7 +1,11 @@
 ### Hi there, I'm Steve a Full-Stack Developer
+[![Website](https://img.shields.io/website?label=stevekdev.netlify.app&style=for-the-badge&url=https%3A%2F%2Fstevekdev.netlify.app)](stevekdev.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nevets172?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnevets172&screen_name=nevets172)
+
+
 
 ## I'm a Developer, Gamer, Pet Enthusiast, and Avid Movie-Lover!!
-- 🔭 I just launched my Portfolio [site]!
+- 🔭 I just deployed my newest web application:[Chatty]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on any project
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -58,6 +62,6 @@
 
 
 
-[site]: https://stevekdev.netlify.app/
+[Chatty]: https://chatty-87c41.web.app/
 [twitter]: https://twitter.com/nevets172
 [linkedin]: https://www.linkedin.com/in/steven-kumarsingh-97b610180/
