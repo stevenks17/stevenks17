@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve a Full-Stack Developer
 
-## I'm a Developer, Gamer, Pet Enthusiast, and Movie Lover!!
+## I'm a Developer, Gamer, Pet Enthusiast, and Avid Movie-Lover!!
 - 🔭 I just launched my Portfolio [site]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on any project
