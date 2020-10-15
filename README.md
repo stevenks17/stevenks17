@@ -60,7 +60,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenks17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]:stevekdev.netlify.app
+[website]: stevekdev.netlify.app
 [Chatty]: https://chatty-87c41.web.app/
 [twitter]: https://twitter.com/nevets172
 [linkedin]: https://www.linkedin.com/in/steven-kumarsingh-97b610180/
