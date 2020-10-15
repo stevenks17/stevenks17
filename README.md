@@ -5,7 +5,7 @@
 
 
 ## I'm a Developer, Gamer, Pet Enthusiast, and Avid Movie-Lover!!
-- 🔭 I just deployed my newest web application:[Chatty]!
+- 🔭 I just deployed my newest web application: [Chatty]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on any project
 - 🥅 2020 Goals: Contribute more to Open Source projects
