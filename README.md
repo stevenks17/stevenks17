@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love to play Chess and reading sci-fi novels
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="stevenks17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="stevenks17 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -49,11 +49,14 @@
 
 
 ---
+
 <details>
-[![Steven's Github Stats](https://github-readme-stats.vercel.app/api?username=stevenks17&show_icons=true&hide_border=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenks17)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="stevenks17's GitHub Stats" src="https://github-readme-stats.stevenks17.vercel.app/api?username=stevenks17&show_icons=true&hide_border=true" />
 
 </details>
+
 
 [site]: https://stevekdev.netlify.app/
 [twitter]: https://twitter.com/nevets172
