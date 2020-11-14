@@ -43,11 +43,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create-React-App was updated and here's what you need to know](https://medium.com/@stevenks17/create-react-app-was-updated-and-heres-what-you-need-to-know-b6beac33b550?source=rss-3987b9b224ad------2)
 - [React Concepts: The Provider Pattern](https://medium.com/@stevenks17/react-concepts-the-provider-pattern-33d4b636d637?source=rss-3987b9b224ad------2)
 - [Beginner’s Guide to Higher-Order Components](https://medium.com/@stevenks17/beginners-guide-to-higher-order-components-2e6ff7d81f03?source=rss-3987b9b224ad------2)
 - [Beginner’s guide to declarative (React) components AKA Compound Components](https://medium.com/@stevenks17/beginners-guide-to-declarative-react-components-aka-compound-components-e2495ddf5344?source=rss-3987b9b224ad------2)
 - [Ruby: a Block, Proc, and Lambda walk into a bar…](https://medium.com/@stevenks17/ruby-a-block-proc-and-lambda-walk-into-a-bar-366f6d3c9e6c?source=rss-3987b9b224ad------2)
-- [Beginner’s Guide to Redux vs React Context](https://medium.com/@stevenks17/beginners-guide-to-redux-vs-react-context-8bec7c8f94cd?source=rss-3987b9b224ad------2)
 <!-- BLOG-POST-LIST:END -->
 
 
