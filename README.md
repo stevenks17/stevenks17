@@ -43,11 +43,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beginners Guide to Firebase](https://medium.com/@stevenks17/beginners-guide-to-firebase-b5a3309ff182?source=rss-3987b9b224ad------2)
 - [Beginner’s Guide to AWS (Part 2)](https://medium.com/@stevenks17/beginners-guide-to-aws-part-2-39d0d994c0fe?source=rss-3987b9b224ad------2)
 - [Beginner’s Guide to AWS (Part 1)](https://medium.com/@stevenks17/beginners-guide-to-aws-part-1-4eed26948dce?source=rss-3987b9b224ad------2)
 - [Create-React-App was updated and here's what you need to know](https://medium.com/@stevenks17/create-react-app-was-updated-and-heres-what-you-need-to-know-b6beac33b550?source=rss-3987b9b224ad------2)
 - [React Concepts: The Provider Pattern](https://medium.com/@stevenks17/react-concepts-the-provider-pattern-33d4b636d637?source=rss-3987b9b224ad------2)
-- [Beginner’s Guide to Higher-Order Components](https://medium.com/@stevenks17/beginners-guide-to-higher-order-components-2e6ff7d81f03?source=rss-3987b9b224ad------2)
 <!-- BLOG-POST-LIST:END -->
 
 
