@@ -1,4 +1,4 @@
-### Hi there, I'm Steve a Full-Stack Developer
+### Hi there, I'm Steve a Developer
 [![website](https://img.shields.io/website?label=STEVEKDEV.NETLIFY.APP&style=for-the-badge&url=https%3A%2F%2Fstevekdev.netlify.app%2F)](https://stevekdev.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nevets172?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnevets172&screen_name=nevets172)
 
