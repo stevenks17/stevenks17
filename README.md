@@ -5,7 +5,7 @@
 
 
 ## I'm a Developer, Gamer, Pet Enthusiast, and Avid Movie-Lover!!
-- 🔭 I just deployed my newest web application: [Chatty]!
+- 🔭 I just deployed my newest web application: [Recipe-app]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on any project
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -61,6 +61,6 @@
 
 
 [website]: stevekdev.netlify.app
-[Chatty]: https://chatty-87c41.web.app/
+[Recipe-app]: https://admirable-lily-24cacb.netlify.app/
 [twitter]: https://twitter.com/nevets172
 [linkedin]: https://www.linkedin.com/in/steven-kumarsingh-97b610180/
