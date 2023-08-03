@@ -5,7 +5,7 @@
 
 
 ## I'm a Developer, Gamer, Pet Enthusiast, and Avid Movie-Lover!!
-- 🔭 I just deployed my newest web application: [Recipe-app]!
+- 🔭 I just deployed my newest web application: https://github.com/stevenks17/GptBot
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on any project
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -13,7 +13,6 @@
 
 ## Connect with me:
 [<img align="left" alt="stevenks17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="stevenks17 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
