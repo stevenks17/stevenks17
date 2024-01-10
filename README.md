@@ -1,6 +1,5 @@
 ### Hi there, I'm Steve a Developer
-[![website](https://img.shields.io/website?label=STEVEKDEV.NETLIFY.APP&style=for-the-badge&url=https%3A%2F%2Fstevekdev.netlify.app%2F)](https://stevekdev.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nevets172?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnevets172&screen_name=nevets172)
+
 
 
 
@@ -8,7 +7,7 @@
 - 🔭 I just deployed my newest web application: https://github.com/stevenks17/GptBot
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on any project
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Chess and reading sci-fi novels
 
 ## Connect with me:
