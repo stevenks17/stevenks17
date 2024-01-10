@@ -4,7 +4,7 @@
 
 
 ## I'm a Developer, Gamer, Pet Enthusiast, and Avid Movie-Lover!!
-- 🔭 I just deployed my newest web application: https://github.com/stevenks17/GptBot
+- 🔭 I just built my newest application: https://github.com/stevenks17/GptBot
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers on any project
 - 🥅 2024 Goals: Contribute more to Open Source projects
