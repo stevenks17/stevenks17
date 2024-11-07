@@ -52,9 +52,9 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="stevenks17's GitHub Stats" src="https://github-readme-stats.stevenks17.vercel.app/api?username=stevenks17&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="stevenks17's GitHub Stats" src="https://github-readme-stats.stevenks17.vercel.app/api?username=stevenks17&show_icons=true&hide_border=true" />
 
-  [![Top Langs](https://github-readme-stats-woad-kappa-14.vercel.app/api/top-langs/?username=stevenks17@layout=compact)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenks17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/steven-kumarsingh-97b610180/
