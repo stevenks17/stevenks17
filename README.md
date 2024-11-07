@@ -54,7 +54,7 @@
 
   <img align="left" alt="stevenks17's GitHub Stats" src="https://github-readme-stats.stevenks17.vercel.app/api?username=stevenks17&show_icons=true&hide_border=true" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenks17&size_weight=0.5&count_weight=0.5&layout=compact)] </br> </br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenks17&size_weight=0.5&count_weight=0.5&layout=compact) </br> </br>
 
 
 [linkedin]: https://www.linkedin.com/in/steven-kumarsingh-97b610180/
